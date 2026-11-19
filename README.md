@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="README_MD_IMG/antenna-positioner-mcad-render-measurement-setup-2.JPG" alt="project photo">
+    <img src="README_MD_IMG/antenna-positioner-mcad-render-measurement-setup-2.jpg" alt="project photo">
 </div>
 
 Antenna Positioner
